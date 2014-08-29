@@ -1,0 +1,26 @@
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\bin\Debug\CanixMix.exe.config
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\bin\Debug\CanixMix.exe
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\bin\Debug\CanixMix.pdb
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\bin\Debug\CanixMix.xml
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.vbprojResolveAssemblyReference.cache
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.FrmMixer.resources
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.Resources.resources
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.vbproj.GenerateResource.Cache
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.exe
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.xml
+C:\Users\Demo\Documents\GitHub\Timetrack_GUI\CanixMix\CanixMix\obj\Debug\CanixMix.pdb
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\bin\Debug\CanixMix.exe.config
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.exe
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.xml
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.pdb
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\bin\Debug\CanixMix.exe
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\bin\Debug\CanixMix.pdb
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\bin\Debug\CanixMix.xml
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.FrmMixer.resources
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.Resources.resources
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.vbproj.GenerateResource.Cache
+C:\Users\Demo\Documents\Visual Studio 2012\Projects\CanixMix\CanixMix\obj\Debug\CanixMix.vbprojResolveAssemblyReference.cache
